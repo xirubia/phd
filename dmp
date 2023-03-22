@@ -34,9 +34,180 @@ output:
   #   df_print: paged
   # rmdformats::robobook: default
   
-  ## The governance of the Waimiri Atroari Indigenous Territory: environmental justice and community management:
+  ## Plan Overview
   
-  this plan is based on the NSF-GEN: Generic TEMPLATE from DMPTool
+A Data Management Plan created using DMPTool
+Title: The governance of the Waimiri Atroari Indigenous Territory: environmental justice and community
+management
+Creator: Silvia De melo futada
+Affiliation: University of Florida (ufl.edu)
+Contributor: Emilio Bruna
+Funder: National Science Foundation (nsf.gov)
+Template: NSF-GEN: Generic
+
+Project abstract:
+This Ph.D. research from Silvia de Melo Futada (sfutada@ufl.edu) addresses environmental governance and justice
+regarding indigenous knowledge and management in the Brazilian Amazonia, specifically the Waimiri Atroari
+Indigenous Territory. The Waimiri-Atroari (WA) - a Carib-speaking indigenous society — were betrayed, hunted,
+and nearly exterminated: decreasing from an estimated population of 3,000 in the 1900s to 374 people in the 1980s.
+Territorial reductions and national infrastructure projects were constructed therein, flooding entire villages.
+Nowadays, after 35 years, the WA society went from an almost extinct society, persecuted in their territory, to a
+flourishing population in some of the best- conserved Indigenous Lands (IL) in Brazil. The community established a
+territorial protection program that includes monitoring wildlife-vehicle collisions and a health and educational
+system in their language, with over 2,400 individuals. This research provides a baseline understanding of this
+unique case of IL governance based on community management and indigenous strategies, providing a model of
+governance policies in an intercultural context. It also aims to develop a codesign of the research process with the
+WA society. I will address the research questions through interdisciplinary mixed-method research.
+
+Start date: 04-30-2023
+End date: 07-30-2026
+Last modified: 03-18-2023
+Created using DMPTool. Last modiﬁed 18 March 2023
+
+Types of data produced
+The types of data, samples, physical collections, software, curriculum materials, and other materials to be
+produced in the course of the project.
+
+Data types and descriptions (9)
+1. Occupancy models of animal species: occupancy models of local species involved in wildlife-vehicle collision
+and its quantitative biophysical dataset (metrics are yet to be defined). The wildlife-vehicle collision dataset
+includes observations from 1997 to 2022 in the 125 km from BR 174 highway that crosses Waimiri Atroari
+Indigenous Territory (TIWA), Amazonas/Roraima, Brazil, and belongs to Waimiri Atroari Community
+Association (ACWA). Its utilization will follow the data sovereignty protocol developed throughout the research
+process.
+2. Historical legal violations: a quantitative and qualitative dataset about historical violations derived from the
+archival research, including final judicial actions against illegal practices in TIWA or against WA society,
+collected in federal, state, and municipal institutions from the national justice system and other institutions.
+3. TIWA and other Brazilian ILs comparison: qualitative dataset comparing the professional team, retention,
+activities, budget governance and other institutional analysis metrics from TIWA and other Brazilian ILs. The
+data will derived from the documental research of the Indigenous Peoples National Fundation and Ministry of
+Planning, Budget and Management
+4. Participatory mapping about TIWA governance: maps produced through participatory mapping exercises during
+local meetings with WA and Waimiri Atroari Support Program (PWA) members will generate quantitative and
+qualitative data about TIWA governance (Amazonas/Roraima, Brazil).
+5. TIWA governance: qualitative data from semi-structured interviews (Bernard, 2011) with 100 to 150 Waimiri
+Atroari members and 30 to 80 members from Waimiri Atroari Support Program. The interviews will be
+conducted in the TIWA (Amazonas/Roraima, Brazil) and Manaus (Amazonas, Brazil) from 2023 to 2025. The
+informed consent will follow the IRB202300168. I will take notes in a notebook and record interviews with H1n
+zoom, transcribing with the anonymization of the interviewers. I will use the software MAXQDA® to the
+qualitative data analysis.
+6. Indigenous Lands policies and TIWA history qualitative data from semi-structured interviews (Bernard, 2011)
+with an estimated 30 - 100 people involved in indigenous territory governance and indigenous policy: researchers
+(such as National University of Brasilia, University of Campinas, University of Sao Paulo, Amazonas Federal
+University, Amazonas National Research Institute, and others); policymakers (such as Indigenous Peoples
+National Fundation, Ministry of Indigenous Peoples, Public Ministry); the technical team from different
+institutions, including civil society organizations (Instituto Socioambiental, Conselho Indigenista Missionário,
+and others). The interviews will be conducted in Manaus (AM), Boa Vista (RR), Brasília (DF), São Paulo (SP),
+and, if necessary, remotely, from 2023 to 2025. The informed consent will follow the IRB202300168. I will take
+notes in a notebook and record interviews with H1n zoom, transcribing with the anonymization of the
+interviewers. I will use the software MAXQDA® to the qualitative data analysis.
+7. Ethnobotanical assessment of ethno-artifacts (Alexiades & Sheldon, 1995): from interviews with the Waimiri
+Atroari members, I will collect quantitative data about the identification, knowledge and uses of the plants used to
+build the collective long house and the cassava flour house in the WA village, and the plants used for making
+tradicional utensils such as bracelets, arrows and traditional backpack to carry manioc. Genus and age from each
+member will be documented. The interviews will be conducted in the TIWA (Amazonas/Roraima, Brazil) and
+Manaus (Amazonas, Brazil) from 2023 to 2025. I will take notes in a paper-sheet and record interviews with H1n
+zoom, transcribing with the anonymization of the interviewers. The informed consent will follow the
+IRB202300168.
+8. Ethnobotanical photographs collection: a collection of digital photographs will document the ethno-artifacts and
+the ethnobotanical assessmen in the TIWA (Amazonas/Roraima, Brazil) from 2023 to 2025.
+9. Territorial governance audiovisual collection: a collection of photographs and videos from the Waimiri Atroari
+Indigenous territory's daily activities related to territorial governance collected in the TIWA (Amazonas/Roraima,
+Brazil) from 2023 to 2025.
+
+Data will be collected and produced from 2023 to 2026.
+
+Silvia de Melo Futada, Ph.D. student from SNRE at the University of Florida, is responsible for managing the data and
+updating and carrying out this DMP.
+
+Alexiades, M.N. & Sheldon, J.W (ed.). 1995. Selected Guidelines for Ethnobotanical Research: A Field Manual. New
+York Botanical Garden. 306 pages.
+
+Data and metadata standards
+The standards to be used for data and metadata format and content (where existing standards are absent or
+deemed inadequate, this should be documented along with any proposed solutions or remedies).
+
+All data will be in a tidy format standard using the naming convection description_date. Digital audio files will be
+saved using the naming convention alpha-numeric pseudonym code_approximate original recording time_date. All
+dates in ISO format (YYYYMMDD). Content will be saved in nonproprietary file formats (.csv, .txt, .ods, .jpeg, .png,
+.mp3, .mp4, and, if necessary, .pdf) to ensure flexibility and avoid loss due to software obsolescence (Borer et al .
+2009). A .txt file will accompany the data providing metadata, and whenever available for each dataset, the metadata
+will follow Michener et al. (1997).
+
+Borer, E. T., E. W. Seabloom, M. B. Jones, and M. Schildhauer. 2009. Some simple guidelines 
+for effective data management. Bulletin of the Ecological Society of America 90:205-214.
+
+Michener, W. K., J. W. Brunt, J. J. Helly, T. B. Kirchner, and S. G. Stafford. 1997. Nongeospatial
+metadata for the ecological sciences. Ecological Applications 7:330-342.
+
+Policies for access and sharing
+Policies for access and sharing including provisions for appropriate protection of privacy, confidentiality,
+security, intellectual property, or other rights or requirements.
+
+Data types 1, 2, 3, 4, 7 and 8 will be shared with PWA and ACW in clean and well-structured formats, and the
+metadata will be provided in .ods or .txt files, following the data surveillance protocol to be established.
+Datasets 1, 2 and 3, associated with published papers will be deposited in Dryad Data Repository (www.datadryad.org)
+with accession numbers included in the publications and an embargo period of 5 years. The R code used in this
+research will be published at Github.
+
+Data types 2, 7, 8 and 9 will be used in curated collections and local and virtual exhibitions about environmental justice
+and TIWA territorial governance.
+
+All the non-sensitive complementary data produced throughout the research and its respective metadata will also be
+deposited in Figshare respecting the data sovereignty protocol developed with the WA and Brazilian and US laws and
+the University of Florida orientations.
+
+Policies for re-use, re-distribution, derivatives
+Policies and provisions for re-use, re-distribution, and the production of derivatives.
+
+Curated collections about environmental justice and territorial governance involving audiovisual and text documents
+(Data types 2, 7, 8 and 9) are under a CC BY-NC-ND license.
+
+Data Types 1, 2 and 3 produced in this research will also be available to reuse as mentioned above after 5 years of
+embargo.
+
+ACWA, PWA and any other people involved in data collection and curation will be credited. All published datasets
+will be credited acknowledging the funders and University of Florida, with an assigned DOI.
+
+Plans for archiving and preservation
+Plans for archiving data, samples, and other research products, and for preservation of access to them.
+
+The data collected through digital field notes, including photographs of notebooks, will be anonymized and encrypted
+digitally. All data and metadata developed during this study will be stored in password-protected and encrypted
+research spaces. Digital audio files will be processed and saved as password-protected files. Anonymized interview
+transcripts will be saved as password-protected. Once imported into the qualitative analysis software, they will be
+saved as password-protected files in its unique format. Metadata and anonymization keys will be saved as password-
+protected .txt files.
+
+Besides being storage in my encrypted computer and in my personal folder in the UF google drive and dropbox, all
+protected files will be backed up in two independent encrypted portable external hard drives storage in two different
+secure location at the University of Florida, with the physical notebooks. 
+
+Once per week, I will proceed with the cloud and one external hard drives backups, and daily with the computer and
+the second external hard drives. The digital data for the project will not exceed 3 T.
+
+The deposition of data sets and the acquisition of the external hd are estimated in $1,000USD.
+
+Planned Research Outputs
+Dataset - "Waimiri Atroari: Historical legal violations"
+Dataset about all historical violations against Waimiri Atroari society and their territory gathered from archival
+research in different institutions.
+Audiovisual - "Waimiri Atroari: resistance and territorial governance"
+Audiovisual collections from the Waimiri Atroari Indigenous territory's daily activities related to territorial governance,
+ways of life, and resistance to the contact with western society.
+Dataset - "TIWA and other Brazilian ILs comparison:"
+Quantitative dataset comparing the professional team, retention, activities, budget governance and other
+institutional analysis metrics from TIWA and other Brazilian ILs. The data will derived from the documental
+research of the Indigenous Peoples National Fundation and Ministry of Planning, Budget and Management
+Data paper - "Occupancy models of animal species"
+Occupancy models of local species involved in wildlife-vehicle collision and its quantitative biophysical
+dataset (metrics are yet to be defined). The wildlife-vehicle collision dataset includes observations from 1997
+to 2022 in the 125 km from BR 174 highway that crosses Waimiri Atroari Indigenous Territory (TIWA),
+Amazonas/Roraima, Brazil, and belongs to Waimiri Atroari Community Association (ACWA). Its utilization
+will follow the data sovereignty protocol developed throughout the research process.
+Planned research output details
+Created using DMPTool. Last modiﬁed 18 March 2023
+  
   
   
   
